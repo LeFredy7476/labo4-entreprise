@@ -1,0 +1,11 @@
+C:\Users\forge\IdeaManager\IdeaManager.Core\bin\Debug\net9.0\IdeaManager.Core.deps.json
+C:\Users\forge\IdeaManager\IdeaManager.Core\bin\Debug\net9.0\IdeaManager.Core.dll
+C:\Users\forge\IdeaManager\IdeaManager.Core\bin\Debug\net9.0\IdeaManager.Core.pdb
+C:\Users\forge\IdeaManager\IdeaManager.Core\obj\Debug\net9.0\IdeaManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forge\IdeaManager\IdeaManager.Core\obj\Debug\net9.0\IdeaManager.Core.AssemblyInfoInputs.cache
+C:\Users\forge\IdeaManager\IdeaManager.Core\obj\Debug\net9.0\IdeaManager.Core.AssemblyInfo.cs
+C:\Users\forge\IdeaManager\IdeaManager.Core\obj\Debug\net9.0\IdeaManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\forge\IdeaManager\IdeaManager.Core\obj\Debug\net9.0\IdeaManager.Core.dll
+C:\Users\forge\IdeaManager\IdeaManager.Core\obj\Debug\net9.0\refint\IdeaManager.Core.dll
+C:\Users\forge\IdeaManager\IdeaManager.Core\obj\Debug\net9.0\IdeaManager.Core.pdb
+C:\Users\forge\IdeaManager\IdeaManager.Core\obj\Debug\net9.0\ref\IdeaManager.Core.dll
